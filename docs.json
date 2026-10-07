@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "Sundown help",
+  "description": "Licence help for Sundown, a Mac menu bar app that warms and dims the display on a schedule.",
+  "content": {
+    "showPageTitle": false
+  }
+}
